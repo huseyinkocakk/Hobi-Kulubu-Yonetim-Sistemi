@@ -107,6 +107,11 @@ Bu uygulama kullanıcıların kulüp etkinliklerini tek bir panel üzerinden yö
 
 ---
 
+## Site Linki
+
+http://95.130.171.20/~st23360859082
+
+
 ## Geliştirici
 
 Hüseyin Koçak
@@ -114,6 +119,4 @@ Hüseyin Koçak
 Web Tabanlı Programlama Dönem Projesi
 2026
 
-## Site Linki
 
-http://95.130.171.20/~st23360859082
