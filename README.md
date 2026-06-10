@@ -109,7 +109,7 @@ Bu uygulama kullanıcıların kulüp etkinliklerini tek bir panel üzerinden yö
 
 ## Geliştirici
 
-Hüseyin Kocak
+Hüseyin Koçak
 
 Web Tabanlı Programlama Dönem Projesi
 2026
