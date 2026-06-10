@@ -97,7 +97,7 @@ Kullanıcılar sisteme üye olabilir, giriş yapabilir ve kendilerine ait etkinl
 
 Video bağlantısı:
 
-(Videoyu yükledikten sonra buraya bağlantı eklenecektir.)
+https://www.youtube.com/watch?v=4JgOQKm_UXg
 
 ---
 
