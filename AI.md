@@ -57,7 +57,7 @@ Proje geliştirme sürecinde aşağıdaki konularda yapay zeka desteğinden yara
 - README.md dosyasının hazırlanması
 - Proje açıklamalarının düzenlenmesi
 - Kurulum adımlarının yazılması
-- GitHub üzerinde proje sunumuna yönelik öneriler
+
 
 ---
 
