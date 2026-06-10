@@ -111,6 +111,7 @@ Bu uygulama kullanıcıların kulüp etkinliklerini tek bir panel üzerinden yö
 
 http://95.130.171.20/~st23360859082
 
+---
 
 ## Geliştirici
 
