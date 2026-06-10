@@ -85,11 +85,11 @@ Kullanıcılar sisteme üye olabilir, giriş yapabilir ve kendilerine ait etkinl
 
 ### Kullanıcı Giriş Ekranı
 
-![Login](screenshots/login.png)
+![Login](login.png)
 
 ### Etkinlik Yönetim Paneli
 
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](dashboard.png)
 
 ---
 
